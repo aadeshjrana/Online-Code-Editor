@@ -4,9 +4,11 @@ An in-browser code editor that allows you to write and execute your code in the 
 
 ## Run Locally
 
+1.
+
 ```bash
 
-npm install
+ npm install
 
 ```
 
